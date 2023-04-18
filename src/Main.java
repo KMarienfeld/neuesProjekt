@@ -4,17 +4,8 @@ public class Main {
 
 
 public static void main(String[] args) {
-    /*int nr1 = 5;
-    int nr2 = 3;
 
-    //string summe
-
-    System.out.println(nr1+nr2);
-
-    int summe = nr1 + nr2;
-    System.out.println(Integer.toString(summe));
-
-    int x = 5, y = 7;
+   /* int x = 5, y = 7;
 
     System.out.println("x + y: " + x + y);
     System.out.println("x - y: " + (x - y));
@@ -55,6 +46,14 @@ if (x > y) {
 
     System.out.println(testArray.length);
 
+    // init zweier Zahlen + Berechnung Summe
+    int nr1 = 5;
+    int nr2 = 3;
+
+    System.out.println(nr1+nr2);
+
+    int summe = nr1 + nr2;
+    System.out.println(Integer.toString(summe));
 }
 
 }
