@@ -52,8 +52,8 @@ if (x > y) {
 
     System.out.println(nr1+nr2);
 
-    int summe = nr1 + nr2;
-    System.out.println(Integer.toString(summe));
+    int summe2 = nr1 + nr2;
+    System.out.println(Integer.toString(summe2));
 }
 
 }
