@@ -63,6 +63,8 @@ if (x > y) {
     System.out.println("x - y: " + (x - y));
     System.out.println("x * y: " + x * y);
     System.out.println("x / y: " + x % y);
+
+    System.out.println("X < Y: ");
 }
 
 }
